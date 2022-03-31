@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">earthquakeapp</string>
+    <string name="eq_empty_text">NO SE ENCONTRARON DATOS</string>
+</resources>
